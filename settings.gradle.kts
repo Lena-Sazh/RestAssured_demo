@@ -1,3 +1,1 @@
-
-rootProject.name = "RestAssured"
-
+rootProject.name = "RestAssured_demo"

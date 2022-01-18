@@ -1,3 +1,3 @@
-### Practice
-#### REST-assured example on Kotlin 
+#### Practice
+### REST-assured example in Kotlin 
 ____
